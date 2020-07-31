@@ -6,5 +6,5 @@
 - 📫 How to reach me:
   </br>[LinkedIN](https://www.linkedin.com/in/tarunmaini79/)
   </br>https://tarunmaini16.github.io/
-- 😄 Pronouns: He/him
+- Pronouns: He/him
 
