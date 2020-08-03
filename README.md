@@ -6,5 +6,8 @@
 - 📫 How to reach me:
   </br>[LinkedIN](https://www.linkedin.com/in/tarunmaini79/)
   </br>https://tarunmaini16.github.io/
+  </br>mainitarun7@gmail.com
 - Pronouns: He/him
 
+
+<img align="center" width="52%"  src="https://github-readme-stats.vercel.app/api?username=tarunmaini16&show_icons=true&hide_border=true" alt="tarun" /> 
