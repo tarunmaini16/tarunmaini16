@@ -10,4 +10,4 @@
 - Pronouns: He/him
 
 
-<img align="center" width="52%"  src="https://github-readme-stats.vercel.app/api?username=tarunmaini16&show_icons=true&hide_border=true" alt="tarun" /> 
+//<img align="center" width="52%"  src="https://github-readme-stats.vercel.app/api?username=tarunmaini16&show_icons=true&hide_border=true" alt="tarun" /> 
